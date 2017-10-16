@@ -12,8 +12,6 @@ Text Domain: acf
 Domain Path: /lang
 */
 
-// test comment
-
 if( !class_exists('acf') ):
 
 class acf {
